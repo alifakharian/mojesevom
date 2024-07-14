@@ -1,0 +1,13 @@
+@font-face {
+  font-family: title;
+  src: url("../Fonts/Shabnam-Bold.ttf");
+}
+.headtitle {
+  font-family: title;
+  text-shadow: 0 0 3px #efbc15;
+}
+.title{
+  font-family: title;
+
+}
+

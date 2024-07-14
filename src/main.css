@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: fn;
+}
+@font-face {
+  font-family: fn;
+  src: url("../src/Components/Pages/Fonts/IRANSansXFaNum-Medium.ttf");
+}

@@ -1,0 +1,19 @@
+.rotate {
+  font-size: 30px !important;
+  color: rgba(2, 13, 161, 0.611);
+  /* font-family: artin; */
+  font-weight: bolder;
+  /* opacity: 0.5 !important; */
+  text-shadow: 5px 0 5px #addef2, 5px 0 10px #addef2, 5px 0 20px #addef2,
+    5px 0 40px #addef2, 5px 0 80px #addef2;
+  padding-bottom: 20px;
+  /* font-size: larger;  */
+}
+
+.hidenrotate {
+  /* opacity: 1 !important;  */
+  font-size: 20px !important;
+  color: rgba(161, 2, 124, 0.611);
+  text-shadow: 0 0 5px #addef2, 0 0 10px #addef2, 0 0 20px #addef2,
+    0 0 40px #addef2, 0 0 80px #addef2; 
+}

@@ -1,0 +1,32 @@
+@font-face {
+  font-family: title;
+  src: url("../Fonts/Shabnam-Bold.ttf");
+}
+.title {
+  font-family: title;
+  text-shadow: 0 0 3px #efbc15;
+}
+.singleslider {
+  background-color: white !important;
+  padding-bottom: 30px !important;
+  padding-top: 20px !important;
+  /* background-color: #ede9e9 !important; */
+  border: solid 2px rgb(203, 202, 202) !important;
+  border-radius: 13px !important;
+}
+.singleslider:hover{
+  border: solid 2px rgba(119, 118, 118, 0.622) !important;
+
+}
+
+.singleslider:hover > div {
+  transform: translateY(-12px);
+  opacity: 1;
+}
+.singleslider:hover > p {
+  color: rgb(139, 27, 27);
+}
+.myswiper2 {
+  padding-bottom: 30px !important;
+  padding-top: 20px !important;
+}

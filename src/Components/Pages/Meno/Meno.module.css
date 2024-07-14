@@ -1,0 +1,8 @@
+@font-face {
+  font-family: meno;
+  src: url("../Fonts/IRANSansWeb.ttf");
+}
+
+.meno {
+  font-family: meno;
+}
