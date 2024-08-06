@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mojesevom/static/css/main.c0e2fc8c.css",
-    "main.js": "/mojesevom/static/js/main.d9556160.js",
+    "main.css": "/mojesevom/static/css/main.ddde7d11.css",
+    "main.js": "/mojesevom/static/js/main.d5226a8b.js",
     "static/media/vecteezy_coffee-beans-coffee-flying-brown_19080887.mp4": "/mojesevom/static/media/vecteezy_coffee-beans-coffee-flying-brown_19080887.174a2d3dc44b10a1e70b.mp4",
     "static/media/4.jpg": "/mojesevom/static/media/4.8572be3ccb74bb19d071.jpg",
     "static/media/3.jpg": "/mojesevom/static/media/3.9efae413157fdfd4fe9c.jpg",
@@ -24,11 +24,11 @@
     "static/media/asiyab.jpg": "/mojesevom/static/media/asiyab.330c11cbb74bec64a3a9.jpg",
     "static/media/IRANSansWeb_Black.ttf": "/mojesevom/static/media/IRANSansWeb_Black.57ad6d6688af34f8ae91.ttf",
     "index.html": "/mojesevom/index.html",
-    "main.c0e2fc8c.css.map": "/mojesevom/static/css/main.c0e2fc8c.css.map",
-    "main.d9556160.js.map": "/mojesevom/static/js/main.d9556160.js.map"
+    "main.ddde7d11.css.map": "/mojesevom/static/css/main.ddde7d11.css.map",
+    "main.d5226a8b.js.map": "/mojesevom/static/js/main.d5226a8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0e2fc8c.css",
-    "static/js/main.d9556160.js"
+    "static/css/main.ddde7d11.css",
+    "static/js/main.d5226a8b.js"
   ]
 }
