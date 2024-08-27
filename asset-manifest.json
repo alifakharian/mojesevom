@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mojesevom/static/css/main.2043b089.css",
-    "main.js": "/mojesevom/static/js/main.7aef6228.js",
+    "main.css": "/mojesevom/static/css/main.f8971a5c.css",
+    "main.js": "/mojesevom/static/js/main.074824bc.js",
     "static/media/vecteezy_coffee-beans-coffee-flying-brown_19080887.mp4": "/mojesevom/static/media/vecteezy_coffee-beans-coffee-flying-brown_19080887.174a2d3dc44b10a1e70b.mp4",
     "static/media/1.jpg": "/mojesevom/static/media/1.90b963f2922782a85cd1.jpg",
     "static/media/2.jpg": "/mojesevom/static/media/2.ff6169e6fc6738723e83.jpg",
@@ -29,17 +29,18 @@
     "static/media/IRANSansXFaNum-Medium.ttf": "/mojesevom/static/media/IRANSansXFaNum-Medium.1084402b5f9df646940c.ttf",
     "static/media/Shabnam-Bold.ttf": "/mojesevom/static/media/Shabnam-Bold.fefaa4a9c548cf533a8d.ttf",
     "static/media/blender.jpg": "/mojesevom/static/media/blender.80090f00c59d352a3627.jpg",
+    "static/media/1.png": "/mojesevom/static/media/1.3d0975d0a8d76b9f9e33.png",
     "static/media/1.1.jpg": "/mojesevom/static/media/1.1.e170ecd60ac8dbea54d0.jpg",
     "static/media/IRANSansWeb.ttf": "/mojesevom/static/media/IRANSansWeb.30ee3c0863897d81f92c.ttf",
     "static/media/asiyab.jpg": "/mojesevom/static/media/asiyab.330c11cbb74bec64a3a9.jpg",
     "static/media/IRANSansWeb_Black.ttf": "/mojesevom/static/media/IRANSansWeb_Black.57ad6d6688af34f8ae91.ttf",
     "static/media/1.1.jpeg": "/mojesevom/static/media/1.1.f5a6600ac0f6bdb1a83d.jpeg",
     "index.html": "/mojesevom/index.html",
-    "main.2043b089.css.map": "/mojesevom/static/css/main.2043b089.css.map",
-    "main.7aef6228.js.map": "/mojesevom/static/js/main.7aef6228.js.map"
+    "main.f8971a5c.css.map": "/mojesevom/static/css/main.f8971a5c.css.map",
+    "main.074824bc.js.map": "/mojesevom/static/js/main.074824bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.2043b089.css",
-    "static/js/main.7aef6228.js"
+    "static/css/main.f8971a5c.css",
+    "static/js/main.074824bc.js"
   ]
 }
