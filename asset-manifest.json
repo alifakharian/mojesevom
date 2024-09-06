@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/mojesevom/static/css/main.b0529133.css",
-    "main.js": "/mojesevom/static/js/main.6a99ab0a.js",
+    "main.css": "/mojesevom/static/css/main.af583ecd.css",
+    "main.js": "/mojesevom/static/js/main.c05f3072.js",
     "static/media/vecteezy_coffee-beans-coffee-flying-brown_19080887.mp4": "/mojesevom/static/media/vecteezy_coffee-beans-coffee-flying-brown_19080887.174a2d3dc44b10a1e70b.mp4",
-    "static/media/1.jpg": "/mojesevom/static/media/1.90b963f2922782a85cd1.jpg",
+    "static/media/1.jpg": "/mojesevom/static/media/1.dc43c70a574cf4be74a3.jpg",
     "static/media/2.jpg": "/mojesevom/static/media/2.ff6169e6fc6738723e83.jpg",
+    "static/media/1.png": "/mojesevom/static/media/1.3d0975d0a8d76b9f9e33.png",
+    "static/media/3.jpg": "/mojesevom/static/media/3.fb5fb0306c7cf82ea932.jpg",
     "static/media/4.webp": "/mojesevom/static/media/4.10618420df35a3816085.webp",
     "static/media/6.jpg": "/mojesevom/static/media/6.c4211a214794c3dabc6e.jpg",
     "static/media/1.webp": "/mojesevom/static/media/1.d58b6a979fd70c78d803.webp",
     "static/media/4.jpg": "/mojesevom/static/media/4.e1a2dacc2a88c86ac9ac.jpg",
     "static/media/1.1.png": "/mojesevom/static/media/1.1.cbf4c83fc267a408addf.png",
-    "static/media/3.jpg": "/mojesevom/static/media/3.9efae413157fdfd4fe9c.jpg",
     "static/media/5.jpg": "/mojesevom/static/media/5.bf0ec809034ff18e6ae7.jpg",
-    "static/media/3.webp": "/mojesevom/static/media/3.bb08cf60c99eca7bf58b.webp",
+    "static/media/3.webp": "/mojesevom/static/media/3.7b7635015f8edee269fc.webp",
     "static/media/2.webp": "/mojesevom/static/media/2.a0129de1af1ffae8fdd7.webp",
     "static/media/7.jpg": "/mojesevom/static/media/7.b8ff5de6c1592f8a9d0b.jpg",
     "static/media/9.jpg": "/mojesevom/static/media/9.735a31280ff17a3f3046.jpg",
@@ -28,19 +29,20 @@
     "static/media/IRANSansX-Medium.ttf": "/mojesevom/static/media/IRANSansX-Medium.38c3e056ce125f2254da.ttf",
     "static/media/IRANSansXFaNum-Medium.ttf": "/mojesevom/static/media/IRANSansXFaNum-Medium.1084402b5f9df646940c.ttf",
     "static/media/Shabnam-Bold.ttf": "/mojesevom/static/media/Shabnam-Bold.fefaa4a9c548cf533a8d.ttf",
+    "static/media/2.png": "/mojesevom/static/media/2.69fe941c403128eb0e67.png",
     "static/media/blender.jpg": "/mojesevom/static/media/blender.80090f00c59d352a3627.jpg",
-    "static/media/1.png": "/mojesevom/static/media/1.3d0975d0a8d76b9f9e33.png",
-    "static/media/1.1.jpg": "/mojesevom/static/media/1.1.e170ecd60ac8dbea54d0.jpg",
+    "static/media/1.1.jpg": "/mojesevom/static/media/1.1.e7a4fa0aa4f246ec1274.jpg",
     "static/media/IRANSansWeb.ttf": "/mojesevom/static/media/IRANSansWeb.30ee3c0863897d81f92c.ttf",
     "static/media/asiyab.jpg": "/mojesevom/static/media/asiyab.330c11cbb74bec64a3a9.jpg",
     "static/media/IRANSansWeb_Black.ttf": "/mojesevom/static/media/IRANSansWeb_Black.57ad6d6688af34f8ae91.ttf",
     "static/media/1.1.jpeg": "/mojesevom/static/media/1.1.f5a6600ac0f6bdb1a83d.jpeg",
+    "static/media/1.jpeg": "/mojesevom/static/media/1.0e2a06c5f4cb91db9ebd.jpeg",
     "index.html": "/mojesevom/index.html",
-    "main.b0529133.css.map": "/mojesevom/static/css/main.b0529133.css.map",
-    "main.6a99ab0a.js.map": "/mojesevom/static/js/main.6a99ab0a.js.map"
+    "main.af583ecd.css.map": "/mojesevom/static/css/main.af583ecd.css.map",
+    "main.c05f3072.js.map": "/mojesevom/static/js/main.c05f3072.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0529133.css",
-    "static/js/main.6a99ab0a.js"
+    "static/css/main.af583ecd.css",
+    "static/js/main.c05f3072.js"
   ]
 }
